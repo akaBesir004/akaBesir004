@@ -49,13 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaBesir004&theme=tokyonight" alt="GitHub Streak Stats">
-</p>
-
----
-
 
 ### ✍️ Let's Collaborate  
 I'm always open to discussing new projects or collaborations. Feel free to reach out if you have an exciting project in mind!
