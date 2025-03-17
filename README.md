@@ -35,15 +35,16 @@
 
 ### 📬 Let's Connect!  
 <p align="center">
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/amar-besirovic-822668302/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="abesirovic573@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="[https://www.upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~01c5639842d9e1b6b0)" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
-  </a>
+<a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:abesirovic573@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.upwork.com/freelancers/~01c5639842d9e1b6b0" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+</a>
+
 </p>
 
 ---
