@@ -1,12 +1,17 @@
 <h1 align="center">Hey there, I'm Amar 👋</h1>
 
 <p align="center">
-  Experienced Full-Stack Web Developer with 3+ years of experience.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Experienced+Full-Stack+Web+Developer+with+3%2B+years+of+experience."  alt="Typing Animation">
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/dc5525a9ad22dc992813fa2ce83e441f580f8cb7b410b350c676df0113ed9b53/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f3237303334382f706578656c732d70686f746f2d3237303334382e6a7065673f6175746f3d636f6d70726573732663733d74696e797372676226773d3132363026683d373530266470723d31" alt="Code Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Trusted+by+clients+from+Australia%2C+Canada%2C+Switzerland%2C+India%2C+and+many+more." alt="Typing Animation">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Working+with+both+code+%26+no-code+development%3A+MERN+stack+%26+Webflow." alt="Typing Animation">
+</p>
+
 
 ---
 
@@ -14,7 +19,6 @@
 - 🎓 **Studying Information Technology** in Mostar  
 - 💻 **Web Developer** since 2022  
 - 🌍 **Freelancer on Upwork**  
-- ⚡ **Passionate about building scalable, responsive websites**  
 - 🔍 **Always learning and improving my skills**
 
 ---
