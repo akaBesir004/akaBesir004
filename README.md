@@ -1,39 +1,42 @@
 <h1 align="center">Hey there, I'm Amar 👋</h1>
 
-<p align="center">
+<p align="center" style="font-size: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Experienced+Full-Stack+Web+Developer+with+3%2B+years+of+experience."  alt="Typing Animation">
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Trusted+by+clients+from+Australia%2C+Canada%2C+Switzerland%2C+India%2C+and+many+more." alt="Typing Animation">
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Working+with+both+code+%26+no-code+development%3A+MERN+stack+%26+Webflow." alt="Typing Animation">
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 **Studying Information Technology** in Mostar  
-- 💻 **Web Developer** since 2022  
-- 🌍 **Freelancer on Upwork**  
-- 🔍 **Always learning and improving my skills**  
+<h2 style="font-size: 26px;">🚀 About Me</h2>  
+
+<p style="font-size: 22px;">🎓 <b>Studying Information Technology</b> in Mostar</p>  
+<p style="font-size: 22px;">💻 <b>Web Developer</b> since 2022</p>  
+<p style="font-size: 22px;">🌍 <b>Freelancer on Upwork</b></p>  
+<p style="font-size: 22px;">🔍 <b>Always learning and improving my skills</b></p>  
 
 ---
 
-## ⚡ Tech Stack  
-🔹 **Front-End:** React, Next.js, Tailwind CSS  
-🔹 **Back-End:** Node.js, Express.js  
-🔹 **Databases:** MongoDB, Firebase  
-🔹 **No-Code Tools:** Webflow, Figma  
-🔹 **Version Control:** Git, GitHub  
-🔹 **Dev Tools:** Visual Studio Code, Docker, Postman  
+<h2 style="font-size: 26px;">⚡ Tech Stack</h2>  
+
+<p style="font-size: 22px;">🔹 <b>Front-End:</b> React, Next.js, Tailwind CSS</p>  
+<p style="font-size: 22px;">🔹 <b>Back-End:</b> Node.js, Express.js</p>  
+<p style="font-size: 22px;">🔹 <b>Databases:</b> MongoDB, Firebase</p>  
+<p style="font-size: 22px;">🔹 <b>No-Code Tools:</b> Webflow, Figma</p>  
+<p style="font-size: 22px;">🔹 <b>Version Control:</b> Git, GitHub</p>  
+<p style="font-size: 22px;">🔹 <b>Dev Tools:</b> Visual Studio Code, Docker, Postman</p>  
 
 ---
 
-## 📬 Let's Connect!  
-<p >
+<h2 style="font-size: 26px;">📬 Let's Connect!</h2>  
+
+<p>
 <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -47,5 +50,6 @@
 
 ---
 
-## ✍️ Let's Collaborate  
-I'm always open to discussing new projects or collaborations. Feel free to reach out if you have an exciting project in mind!
+<h2 style="font-size: 26px;">✍️ Let's Collaborate</h2>  
+
+<p style="font-size: 22px;">I'm always open to discussing new projects or collaborations. Feel free to reach out if you have an exciting project in mind!</p>  
