@@ -38,7 +38,7 @@
   <a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
      target="_blank" 
      >
-<img src="https://img.shields.io/badge/Download%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="300" alt="Download Resume">
+<img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="250" alt="Download Resume">
   </a>
 </p>
 
