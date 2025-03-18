@@ -52,4 +52,4 @@
 
 <h1>✍️ Let's Collaborate</h1>  
 
-<h3>I'm always open to discussing new projects or collaborations. Feel free to reach out if you have an exciting project in mind!</h3>  
+<h3>Looking for a dev? Let’s talk!</h3>  
