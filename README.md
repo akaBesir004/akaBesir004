@@ -16,7 +16,7 @@
 
 <h2 style="font-size: 26px;">🚀 About Me</h2>  
 
-<p style="font-size: 22px;">🎓 <b>Studying Information Technology</b> in Mostar</p>  
+<p style="font-size: 32px;">🎓 <b>Studying Information Technology</b> in Mostar</p>  
 <p style="font-size: 22px;">💻 <b>Web Developer</b> since 2022</p>  
 <p style="font-size: 22px;">🌍 <b>Freelancer on Upwork</b></p>  
 <p style="font-size: 22px;">🔍 <b>Always learning and improving my skills</b></p>  
