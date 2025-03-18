@@ -30,7 +30,7 @@
 <h3>🔹 <b>Databases:</b> MongoDB, Firebase</h3>  
 <h3>🔹 <b>No-Code Tools:</b> Webflow, Figma</h3>  
 <h3>🔹 <b>Version Control:</b> Git, GitHub</h3>  
-<h3>🔹 <b>Dev Tools:</b> Visual Studio Code, Docker, Postman</h3>  
+<h3>🔹 <b>Dev Tools:</b> Visual Studio Code, Vercel, Postman</h3>  
 
 ---
 
@@ -52,4 +52,8 @@
 
 <h1>✍️ Let's Collaborate</h1>  
 
-<h3>Looking for a dev? Let’s talk!</h3>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Interested+in+collaborating+on+projects%3F+Feel+free+to+reach+out." alt="Typing Animation">
+</p>
+
+ 
