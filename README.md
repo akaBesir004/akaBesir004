@@ -12,18 +12,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Working+with+both+code+%26+no-code+development%3A+MERN+stack+%26+Webflow." alt="Typing Animation">
 </p>
 
-
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 - 🎓 **Studying Information Technology** in Mostar  
 - 💻 **Web Developer** since 2022  
 - 🌍 **Freelancer on Upwork**  
-- 🔍 **Always learning and improving my skills**
+- 🔍 **Always learning and improving my skills**  
 
 ---
 
-### ⚡ Tech Stack  
+## ⚡ Tech Stack  
 🔹 **Front-End:** React, Next.js, Tailwind CSS  
 🔹 **Back-End:** Node.js, Express.js  
 🔹 **Databases:** MongoDB, Firebase  
@@ -33,7 +32,7 @@
 
 ---
 
-### 📬 Let's Connect!  
+## 📬 Let's Connect!  
 <p >
 <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -44,12 +43,9 @@
 <a href="https://www.upwork.com/freelancers/~01c5639842d9e1b6b0" target="_blank">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
 </a>
-
 </p>
 
 ---
 
-
-### ✍️ Let's Collaborate  
+## ✍️ Let's Collaborate  
 I'm always open to discussing new projects or collaborations. Feel free to reach out if you have an exciting project in mind!
-
