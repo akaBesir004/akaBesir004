@@ -34,6 +34,14 @@
 
 ---
 
+<h1>✍️ Let's Collaborate</h1>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Interested+in+collaborating+on+projects%3F+Feel+free+to+reach+out." alt="Typing Animation">
+</p>
+
+---
+
 <h1>📬 Let's Connect!</h1>  
 
 <p>
@@ -48,12 +56,6 @@
 </a>
 </p>
 
----
 
-<h1>✍️ Let's Collaborate</h1>  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Interested+in+collaborating+on+projects%3F+Feel+free+to+reach+out." alt="Typing Animation">
-</p>
 
  
