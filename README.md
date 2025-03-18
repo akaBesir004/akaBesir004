@@ -42,7 +42,7 @@
 
 ---
 
-<h1>📬 Let's Connect!</h1>  
+<h1>📬 Get In Touch!</h1>  
 
 <p>
 <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
