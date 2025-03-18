@@ -34,6 +34,18 @@
 
 ---
 
+<p style="font-size: 32px; font-weight: bold; color: white; text-decoration: none;">
+  <a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
+     target="_blank" 
+     >
+        <img src="https://img.shields.io/badge/Download%20CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="300"  alt="Download My CV">
+  </a>
+</p>
+
+
+
+---
+
 <h1>✍️ Let's Collaborate</h1>  
 
 <p align="center">
@@ -41,6 +53,7 @@
 </p>
 
 ---
+
 
 <h1>📬 Get In Touch!</h1>  
 
