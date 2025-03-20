@@ -29,8 +29,6 @@
 <h3>🔹 <b>Back-End:</b> Node.js, Express.js</h3>  
 <h3>🔹 <b>Databases:</b> MongoDB, Firebase</h3>  
 <h3>🔹 <b>No-Code Tools:</b> Webflow, Figma</h3>  
-<h3>🔹 <b>Version Control:</b> Git, GitHub</h3>  
-<h3>🔹 <b>Dev Tools:</b> VS Code, Vercel, Postman</h3>  
 
 ---
 
