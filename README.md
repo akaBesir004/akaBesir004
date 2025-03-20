@@ -1,5 +1,6 @@
-<h1>👋 Hey there, I'm Amar - 
-  <a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
+<h1>👋 Hey there, I'm Amar</h1>
+
+<a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
      target="_blank">
     <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
@@ -13,7 +14,8 @@
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
 
-</h1>
+---
+
 <h3>
   💻 <strong>Experienced Full-Stack Web Developer with 3+ years of experience.</strong>
 </h3>
