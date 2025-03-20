@@ -1,4 +1,4 @@
-<h1>👋 Hey there, I'm Amar | 
+<h1>👋 Hey there, I'm Amar - 
   <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
