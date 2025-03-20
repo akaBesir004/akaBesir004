@@ -21,7 +21,7 @@
 </h3>
 
 <h3>
-  🚀 <strong>Trusted by clients from Australia, Canada, Switzerland, India, and many more.</strong>
+   <strong>🌍 Trusted by clients from Australia, Canada, Switzerland, India, and many more.</strong>
 </h3>
 
 <h3>
