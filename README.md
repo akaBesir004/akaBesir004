@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Amar 👋</h1>
+<h1>Hey there, I'm Amar 👋</h1>
 
 <h3>
   💻 <strong>Experienced Full-Stack Web Developer with 3+ years of experience.</strong>
