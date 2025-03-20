@@ -1,4 +1,8 @@
 <h1>👋 Hey there, I'm Amar - 
+  <a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
+     target="_blank">
+    <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+  </a>
   <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -8,6 +12,7 @@
   <a href="https://www.upwork.com/freelancers/~01c5639842d9e1b6b0" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
+
 </h1>
 <h3>
   💻 <strong>Experienced Full-Stack Web Developer with 3+ years of experience.</strong>
@@ -41,17 +46,16 @@
 
 ---
 
-<p>
-  <a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
-     target="_blank">
-    <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="200" alt="Download Resume">
-  </a>
-</p>
-
----
-
 <h1>✍️ Let's Collaborate</h1>  
 
 <h3>🤝 Interested in collaborating on projects? Feel free to reach out. 📩</h3>
+
+---
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akabesir004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=akabesir004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
 ---
