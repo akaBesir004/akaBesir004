@@ -26,8 +26,8 @@
 <h1>🚀 About Me</h1>  
 
 <h3>🎓 <b>Studying Information Technology</b> in Mostar</h3>  
-<h3>💻 <b>Web Developer</b> since 2022</h3>  
-<h3>🌍 <b>Freelancer on Upwork</b></h3>  
+<h3>💻 <b>Passionate Full Stack Developer</b> since 2022.</h3>  
+<h3>🌍 <b>Freelancer on Upwork, collaborating globally</b></h3>  
 <h3>🔍 <b>Always learning and improving my skills</b></h3>  
 
 ---
