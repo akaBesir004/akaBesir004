@@ -1,40 +1,40 @@
 <h1 align="center">Hey there, I'm Amar 👋</h1>
 
-<h3 align="center">
+<h3>
   💻 <strong>Experienced Full-Stack Web Developer with 3+ years of experience.</strong>
 </h3>
 
-<h3 align="center">
+<h3>
   🚀 <strong>Trusted by clients from Australia, Canada, Switzerland, India, and many more.</strong>
 </h3>
 
-<h3 align="center">
+<h3>
   🔧 <strong>Working with both code & no-code development: MERN stack & Webflow.</strong>
 </h3>
 
 ---
 
-<h1 align="center">🚀 About Me</h1>  
+<h1>🚀 About Me</h1>  
 
-<h3 align="center">🎓 <b>Studying Information Technology</b> in Mostar</h3>  
-<h3 align="center">💻 <b>Web Developer</b> since 2022</h3>  
-<h3 align="center">🌍 <b>Freelancer on Upwork</b></h3>  
-<h3 align="center">🔍 <b>Always learning and improving my skills</b></h3>  
-
----
-
-<h1 align="center">⚡ Tech Stack</h1>  
-
-<h3 align="center">🔹 <b>Front-End:</b> React, Next.js, Tailwind CSS</h3>  
-<h3 align="center">🔹 <b>Back-End:</b> Node.js, Express.js</h3>  
-<h3 align="center">🔹 <b>Databases:</b> MongoDB, Firebase</h3>  
-<h3 align="center">🔹 <b>No-Code Tools:</b> Webflow, Figma</h3>  
-<h3 align="center">🔹 <b>Version Control:</b> Git, GitHub</h3>  
-<h3 align="center">🔹 <b>Dev Tools:</b> VS Code, Vercel, Postman</h3>  
+<h3>🎓 <b>Studying Information Technology</b> in Mostar</h3>  
+<h3>💻 <b>Web Developer</b> since 2022</h3>  
+<h3>🌍 <b>Freelancer on Upwork</b></h3>  
+<h3>🔍 <b>Always learning and improving my skills</b></h3>  
 
 ---
 
-<p align="center">
+<h1>⚡ Tech Stack</h1>  
+
+<h3>🔹 <b>Front-End:</b> React, Next.js, Tailwind CSS</h3>  
+<h3>🔹 <b>Back-End:</b> Node.js, Express.js</h3>  
+<h3>🔹 <b>Databases:</b> MongoDB, Firebase</h3>  
+<h3>🔹 <b>No-Code Tools:</b> Webflow, Figma</h3>  
+<h3>🔹 <b>Version Control:</b> Git, GitHub</h3>  
+<h3>🔹 <b>Dev Tools:</b> VS Code, Vercel, Postman</h3>  
+
+---
+
+<p>
   <a href="https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1" 
      target="_blank">
     <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" width="200" alt="Download Resume">
@@ -43,15 +43,15 @@
 
 ---
 
-<h1 align="center">✍️ Let's Collaborate</h1>  
+<h1>✍️ Let's Collaborate</h1>  
 
-<h3 align="center">🤝 Interested in collaborating on projects? Feel free to reach out. 📩</h3>
+<h3>🤝 Interested in collaborating on projects? Feel free to reach out. 📩</h3>
 
 ---
 
-<h1 align="center">📬 Get In Touch!</h1>  
+<h1>📬 Get In Touch!</h1>  
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
