@@ -1,16 +1,16 @@
 <h1 align="center">Hey there, I'm Amar 👋</h1>
 
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Experienced+Full-Stack+Web+Developer+with+3%2B+years+of+experience."  alt="Typing Animation">
-</p>
+<h3 align="center">
+  💻 <strong>Experienced Full-Stack Web Developer with 3+ years of experience.</strong>
+</h3>
 
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Trusted+by+clients+from+Australia%2C+Canada%2C+Switzerland%2C+India%2C+and+many+more." alt="Typing Animation">
-</p>
+<h3 align="center">
+  🚀 <strong>Trusted by clients from Australia, Canada, Switzerland, India, and many more.</strong>
+</h3>
 
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Working+with+both+code+%26+no-code+development%3A+MERN+stack+%26+Webflow." alt="Typing Animation">
-</p>
+<h3 align="center">
+  🔧 <strong>Working with both code & no-code development: MERN stack & Webflow.</strong>
+</h3>
 
 ---
 
@@ -48,9 +48,8 @@
 
 <h1>✍️ Let's Collaborate</h1>  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=1000&lines=Interested+in+collaborating+on+projects%3F+Feel+free+to+reach+out." alt="Typing Animation">
-</p>
+<h3>Interested in collaborating on projects? Feel free to reach out. 📩</h3>
+
 
 ---
 
