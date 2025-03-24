@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
          alt="Download Resume">
 </a>
-
   <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
