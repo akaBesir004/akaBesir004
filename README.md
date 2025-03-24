@@ -1,11 +1,11 @@
 <h1>👋 Hey there, I'm Amar</h1>
 
 <a href="https://cdn.prod.website-files.com/67e01f4364f391f6e615c596/67e18feb5125cc919a6e67c4_Amar%20Be%C5%A1irovi%C4%87%20CV.pdf" 
-   target="_blank" download>
+   target="_blank" download onclick="window.open(this.href); return false;">
     <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
          alt="Download Resume">
 </a>
-  <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
+  <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank" onclick="window.open(this.href); return false;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:abesirovic573@gmail.com">
