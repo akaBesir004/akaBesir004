@@ -1,9 +1,11 @@
 <h1>👋 Hey there, I'm Amar</h1>
 
-<a href="[[https://www.dropbox.com/scl/fi/nyz2nbtldt8lwyhsiuvyw/Amar-Be-irovi-CV.pdf?rlkey=c5myl7y8ogwizobkpc9pojbmh&st=khhjv0kj&dl=1](https://cdn.prod.website-files.com/67e01f4364f391f6e615c596/67e18feb5125cc919a6e67c4_Amar%20Be%C5%A1irovi%C4%87%20CV.pdf)](https://cdn.prod.website-files.com/67e01f4364f391f6e615c596/67e18feb5125cc919a6e67c4_Amar%20Be%C5%A1irovi%C4%87%20CV.pdf)" 
-     target="_blank">
-    <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
-  </a>
+<a href="https://cdn.prod.website-files.com/67e01f4364f391f6e615c596/67e18feb5125cc919a6e67c4_Amar%20Be%C5%A1irovi%C4%87%20CV.pdf" 
+   target="_blank" download>
+    <img src="https://img.shields.io/badge/Download%20The%20Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
+         alt="Download Resume">
+</a>
+
   <a href="https://www.linkedin.com/in/amar-besirovic-822668302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
